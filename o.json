@@ -1,0 +1,26 @@
+{
+    "categories": [
+        {
+            "name": "Lapis MF",
+            "waypoints": [
+                {
+                    "name": "54",
+                    "x": 308,
+                    "y": 55,
+                    "z": 471,
+                    "enabled": true,
+                    "addedAt": 1672405240782
+                },
+                {
+                    "name": "36",
+                    "x": 291,
+                    "y": 47,
+                    "z": 379,
+                    "enabled": true,
+                    "addedAt": 1672404118330
+                }
+            ],
+            "island": "crystal_hollows"
+        }
+    ]
+}
