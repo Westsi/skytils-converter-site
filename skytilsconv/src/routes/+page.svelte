@@ -32,6 +32,7 @@
 <main>
     <h1>Convert Skytils /sthw commands to Import from Clipboard</h1>
     <p>If this does not work, make sure you have enabled read from clipboard. If you do not trust this, read the code at <a href="https://github.com/Westsi/skytils-converter-site">Github</a>.</p>
+    <p>Uses coords in format /sthw set &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;name&gt;. Make sure your coords are in that form.</p>
     <button on:click={convert}>Convert from Clipboard</button>
     <h2>Output Encoded</h2>
     <textarea class="long">{btoa(converted)}</textarea>
